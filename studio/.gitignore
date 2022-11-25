@@ -1,0 +1,17 @@
+
+# Intellij
+.idea
+*.iml
+
+# VS Code settings
+.vscode
+
+# Lockfiles
+yarn.lock
+package-lock.json
+
+.env
+
+##IntelliJ
+.idea/
+*.iml
